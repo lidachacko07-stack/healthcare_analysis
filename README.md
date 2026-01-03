@@ -9,10 +9,8 @@ Statistical Analysis
 Python for Data Analysis
 Working with Excel datasets
 
-Project Structure
-eda_01.ipynb  
-data.xlsx 
-README.md           
+Project Structure:-
+eda_01.ipynb, data.xlsx, README.md           
 
 Project Objectives:-
 Load and inspect data from an Excel file
